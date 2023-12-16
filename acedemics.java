@@ -3,6 +3,8 @@ public class acedemics {
     int i = 5;
     i = i++; // i is now 6
     i = ++i; // i is now 7
-    System.out.println(i+"yeh answer hai "); // prints 7
+
+    System.out.println(i+"yahi hai result"); // prints 7
+
   }
 }
